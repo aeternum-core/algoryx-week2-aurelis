@@ -4,6 +4,12 @@
 
 ---
 
+## 🌐 Live Production Deployment
+🚀 **Live Demo**: [https://algoryx-week2-aurelis.vercel.app](https://algoryx-week2-aurelis.vercel.app)  
+📦 **Repository**: [https://github.com/aeternum-core/algoryx-week2-aurelis](https://github.com/aeternum-core/algoryx-week2-aurelis)
+
+---
+
 ## 🌌 Overview
 **AURELIS** is a modern, production-grade scroll-based animated creative landing page designed and developed for the Algoryx UI/UX Internship. It demonstrates high-fidelity tactile interaction, multi-layer depth physics, and seamless responsiveness across all screen sizes (from 320px mobile devices up to 4K displays).
 
@@ -46,6 +52,7 @@
 - **Animation & Physics**: Framer Motion (Kinetic Typography, Scroll Velocity, Springs, Magnetic Interactions)
 - **Icons**: Lucide React
 - **Typography**: Syne, Plus Jakarta Sans, JetBrains Mono
+- **Hosting**: Vercel Global Edge Network
 
 ---
 
