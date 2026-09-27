@@ -126,7 +126,7 @@ export default function Contact({ darkMode = true }: ContactProps) {
                 Likith V Gowda — likith@aurelis.studio
               </p>
               <p className="mt-0.5 opacity-60">
-                Bangalore, India (HQ) // 12.9716° N, 77.5946° E
+                Bangalore, India (HQ)
               </p>
             </div>
 

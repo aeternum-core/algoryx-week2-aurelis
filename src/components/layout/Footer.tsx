@@ -83,7 +83,7 @@ export default function Footer() {
             <div className="space-y-3 font-mono text-xs opacity-75">
               <div>
                 <p className="font-semibold text-current">Bangalore, India (HQ)</p>
-                <p className="opacity-60">12.9716° N, 77.5946° E</p>
+                <p className="opacity-60">Primary Studio Node</p>
               </div>
               <div>
                 <p className="font-semibold text-current">Principal Architect</p>
@@ -91,7 +91,7 @@ export default function Footer() {
               </div>
               <div>
                 <p className="font-semibold text-current">London Node</p>
-                <p className="opacity-60">51.5074° N, 0.1278° W</p>
+                <p className="opacity-60">Collaborative Network</p>
               </div>
               <div className="pt-2 text-[11px] opacity-60">
                 <span>Direct: likith@aurelis.studio // hello@aurelis.studio</span>

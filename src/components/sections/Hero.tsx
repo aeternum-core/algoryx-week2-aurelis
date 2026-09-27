@@ -64,7 +64,7 @@ export default function Hero({ darkMode = true }: HeroProps) {
                 <span className="truncate">DIRECTED BY: LIKITH V GOWDA</span>
               </div>
               <div className="hidden xs:block">
-                <span>COORDINATES: 12.9716° N, 77.5946° E // BANGALORE</span>
+                <span>LOCATION: BANGALORE, INDIA</span>
               </div>
               <div className="hidden md:block">
                 <span>STACK: REACT // TS // FRAMER</span>

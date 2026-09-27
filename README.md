@@ -85,4 +85,4 @@ npm run preview
 - **Developer**: Likith V Gowda
 - **Role**: Principal Creative Technologist / Intern
 - **Program**: Algoryx UI/UX Internship (Week 02)
-- **Location**: Bangalore, Karnataka, India (12.9716° N, 77.5946° E)
+- **Location**: Bangalore, Karnataka, India
